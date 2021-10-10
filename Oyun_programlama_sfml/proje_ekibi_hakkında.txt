@@ -1,0 +1,13 @@
+Projemiz Hakkında
+
+PROJE EKİBİ:
+
+Emirhan ERGEN G191210389
+Mertcan YETER G191210308
+Anıl  Hasan Ateş B171210311
+
+
+PROJE TANITIMI:
+Projemiz istenilen durumları gerçekleştirmektedir. İlk atışı 45 derecelik açı ile atmaktadır sonrasında ise açı hız random olmaktadır. Beklentilerin hepsini yerine getirmektedir ancak bu konuda bir durumda kafamız karıştı  ancak oyunumuzu yinede kafamızdakine göre değil de istenilenlere göre yaptık aşağıda o kısmı ayrıca belirttik.
+Durum:
+Top en alt bloklarımıza temas ettiğinde normalde bu oyunda yanma durumu olması lazım yani game over ancak istek kısmında böyle bir durum olmadığı için bunun üzerinde çalışmadık.

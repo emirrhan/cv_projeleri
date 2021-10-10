@@ -1,0 +1,20 @@
+/**
+* @file odev_2
+* @description  Ödevde istenilen bütün fonksiyonları yerine getiriyor.
+* @course 1.Ögretim C grubu
+* @assignment 2.Ödev 
+* @date 26.11.2019
+* @author Mertcan Yeter///mertcan.yeter1@ogr.sakarya.edu.tr +++ Emirhan Ergen///emirhan.ergen2@ogr.sakarya.edu.tr
+*/
+
+Öncelikle liste sınıfı içerisine hem dügümü hemde kullanıcagım fonksiyonu yazdım 
+-ekleme 
+-ekrana yazma
+-okuma bunlar genel fonsiyonlar oldugunu için public alanda tanımladım
+private alanda ise 
+-nekadar solunda oldugu  
+-aynı degerden birtane daha varmı 
+fonksiyonunu yazdım bunların hepsini list.hpp icersinde gerceklestirdim daha sonra 
+list cpp de ise sadece bunların içini doldurarak list sınıfını tamamıyla bitirdim
+test.cpp de main'nin içerisinde komutlarımı cagırarak  ödevimi test ede ede ilerledim ve en son size gönderdigim bu aşamasına getirdim.
+bütün işlevleri gecerli ve büyük kücük harf duyarlılıgı vardır
